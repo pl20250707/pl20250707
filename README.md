@@ -13,6 +13,6 @@
 平台无广告，无需担心弹窗或会员推送，专注观影。所有数据加密，保护隐私，完全匿名观看，无需注册。
 选择我们，享受简便、安全、高清、无广告的免费观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/pl20250707/pl20250707 ）</span>
 
 
